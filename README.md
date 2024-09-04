@@ -1,2 +1,2 @@
 # Hydro_Clean
-Monitoring and tracking water quality through a system that uses artificial intelligence techniques to improve water quality by monitoring various water characteristics.
+  Water, a fundamental element of life, faces increasing pollution threats that compromise environmental sustainability. To address this challenge, our project explored the application of artificial intelligence techniques for real-time water quality analysis and prediction. By monitoring water quality parameters and detecting anomalies, our solution aims to provide timely alerts to authorities, enabling proactive responses to potential contamination events. Ultimately, this approach contributes to more efficient water treatment processes and sustainable water resource management.
